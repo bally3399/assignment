@@ -1,0 +1,16 @@
+import java.util.Scammer;
+
+public class Code1{
+	public static void main(String[] args){
+	
+	system.out.printf("   ****%n  ******%n*******%n ******%n  ****%n");
+
+	
+
+	}
+
+
+
+
+
+}

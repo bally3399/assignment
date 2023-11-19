@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class Game1{
+
+	public static void main(String[] args){
+
+	Scanner scanner = new Scanner(System.in);
+
+	System.out.print("Enter first number");
+
+	int num1 = input.nextInt();
+
+	System.out.print("Enter second number");
+
+	int num2 = input.nextInt();
+
+	int head = 0
+	int tail = 1
+	
+	if(num1 == head && num2 == tail){
+	System.out.println("correct");
+	}
+	if(num1 != head && num2 != tail){
+	System.out.println("incorrect");
+	}
+
+
+
+
+	}
+
+
+
+
+
+
+}
